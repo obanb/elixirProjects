@@ -21,6 +21,9 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib/dictionary" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/lib/dictionary" />
     </key>
@@ -37,7 +40,7 @@
       <workItem from="1599514636455" duration="608000" />
       <workItem from="1599765901418" duration="600000" />
       <workItem from="1599836308443" duration="6054000" />
-      <workItem from="1600017237544" duration="2127000" />
+      <workItem from="1600017237544" duration="6831000" />
     </task>
     <servers />
   </component>
@@ -54,9 +57,9 @@
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
     <state x="371" y="180" width="1022" height="737" key="SettingsEditor/72.27.1848.1053@72.27.1848.1053" timestamp="1599332971037" />
-    <state x="545" y="264" width="672" height="678" key="search.everywhere.popup" timestamp="1599330793214">
+    <state x="545" y="264" width="672" height="678" key="search.everywhere.popup" timestamp="1600113631679">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state x="545" y="264" width="672" height="678" key="search.everywhere.popup/72.27.1848.1053@72.27.1848.1053" timestamp="1599330793214" />
+    <state x="545" y="264" width="672" height="678" key="search.everywhere.popup/72.27.1848.1053@72.27.1848.1053" timestamp="1600113631679" />
   </component>
 </project>
