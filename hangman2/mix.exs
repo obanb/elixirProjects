@@ -2,7 +2,7 @@ defmodule Hangman.MixProject do
   use Mix.Project
   def project do
     [
-      app: :hangman,
+      app: :Hangman,
       version: "0.1.0",
       elixir: "~> 1.10",
       start_permanent: Mix.env() == :prod,
@@ -12,6 +12,7 @@ defmodule Hangman.MixProject do
 
   def application do
     [
+      mod: { Hangman.Application, [] },
       extra_applications: [:logger]
     ]
   end

@@ -1,13 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c3a96658-8b63-4e53-b7f3-3098cd71e962" name="Default Changelist" comment="" />
+    <list default="true" id="c3a96658-8b63-4e53-b7f3-3098cd71e962" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../dictionary/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dictionary/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dictionary/lib/dictionary/word_list.ex" beforeDir="false" afterPath="$PROJECT_DIR$/../dictionary/lib/dictionary/word_list.ex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hangman2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hangman2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../text_client/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../text_client/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1h6hZ8zIOGtvfIUM3ZxawuOHPop" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -33,7 +43,8 @@
       <workItem from="1599836307130" duration="6246000" />
       <workItem from="1599865448478" duration="3011000" />
       <workItem from="1600017250272" duration="480000" />
-      <workItem from="1600017822155" duration="1752000" />
+      <workItem from="1600017822155" duration="2963000" />
+      <workItem from="1600456392170" duration="236000" />
     </task>
     <servers />
   </component>

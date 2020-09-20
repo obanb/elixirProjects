@@ -1,6 +1,5 @@
-defmodule Hangman2Test do
+defmodule HangmanTest do
   use ExUnit.Case
-  doctest Hangman2
-
+  doctest Hangman
 
 end

@@ -13,14 +13,14 @@ defmodule TextClient.MixProject do
 
     def application do
     [
-      extra_applications: [:logger]
+      included_applications: [ :hangman2 ],
+      extra_applications: [ :logger ]
     ]
   end
 
   defp deps do
     [
-      { :hangman, path: "../../hangman2" },
-      {:elixir_uuid, "~> 1.2.1"},
+      {:hangman2, [ path: "../../hangman2" ]},
     ]
   end
 end
