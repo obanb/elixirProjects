@@ -20,150 +20,56 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c699342-1e45-44e7-a853-eb354deac564" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../files/coding-gnome/hangman/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../files/coding-gnome/hangman/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../files/coding-gnome/hangman/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../files/coding-gnome/hangman/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gallows2/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gallows2/.idea/libraries/benchee.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gallows2/.idea/libraries/benchee_json.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gallows2/.idea/libraries/circular_buffer.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gallows2/.idea/libraries/connection.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gallows2/.idea/libraries/cowboy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gallows2/.idea/libraries/cowlib.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gallows2/.idea/libraries/db_connection.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gallows2/.idea/libraries/decimal.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gallows2/.idea/libraries/dialyxir.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gallows2/.idea/libraries/earmark.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gallows2/.idea/libraries/ecto.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gallows2/.idea/libraries/ecto_sql.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gallows2/.idea/libraries/ex_doc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gallows2/.idea/libraries/excoveralls.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gallows2/.idea/libraries/file_system.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gallows2/.idea/libraries/floki.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gallows2/.idea/libraries/gettext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gallows2/.idea/libraries/hackney.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gallows2/.idea/libraries/html_entities.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gallows2/.idea/libraries/inch_ex.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gallows2/.idea/libraries/jason.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gallows2/.idea/libraries/kadabra.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gallows2/.idea/libraries/mime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gallows2/.idea/libraries/phoenix.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gallows2/.idea/libraries/phoenix_ecto.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gallows2/.idea/libraries/phoenix_html.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gallows2/.idea/libraries/phoenix_live_dashboard.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gallows2/.idea/libraries/phoenix_live_reload.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gallows2/.idea/libraries/phoenix_live_view.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gallows2/.idea/libraries/phoenix_pubsub.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gallows2/.idea/libraries/plug.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gallows2/.idea/libraries/plug_cowboy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gallows2/.idea/libraries/plug_crypto.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gallows2/.idea/libraries/postgrex.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gallows2/.idea/libraries/ranch.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gallows2/.idea/libraries/stream_data.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gallows2/.idea/libraries/telemetry.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gallows2/.idea/libraries/telemetry_metrics.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gallows2/.idea/libraries/telemetry_poller.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gallows2/.idea/libraries/websocket_client.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gallows2/.idea/libraries/x509.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gallows2/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gallows2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gallows2/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../prj/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../prj/.idea/libraries/benchee.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../prj/.idea/libraries/benchee_json.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../prj/.idea/libraries/circular_buffer.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../prj/.idea/libraries/connection.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../prj/.idea/libraries/cowboy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../prj/.idea/libraries/cowlib.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../prj/.idea/libraries/db_connection.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../prj/.idea/libraries/decimal.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../prj/.idea/libraries/dialyxir.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../prj/.idea/libraries/earmark.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../prj/.idea/libraries/ecto.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../prj/.idea/libraries/ecto_sql.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../prj/.idea/libraries/ex_doc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../prj/.idea/libraries/excoveralls.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../prj/.idea/libraries/file_system.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../prj/.idea/libraries/floki.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../prj/.idea/libraries/gettext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../prj/.idea/libraries/hackney.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../prj/.idea/libraries/html_entities.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../prj/.idea/libraries/inch_ex.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../prj/.idea/libraries/jason.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../prj/.idea/libraries/kadabra.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../prj/.idea/libraries/mime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../prj/.idea/libraries/phoenix.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../prj/.idea/libraries/phoenix_ecto.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../prj/.idea/libraries/phoenix_html.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../prj/.idea/libraries/phoenix_live_dashboard.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../prj/.idea/libraries/phoenix_live_reload.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../prj/.idea/libraries/phoenix_live_view.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../prj/.idea/libraries/phoenix_pubsub.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../prj/.idea/libraries/plug.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../prj/.idea/libraries/plug_cowboy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../prj/.idea/libraries/plug_crypto.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../prj/.idea/libraries/postgrex.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../prj/.idea/libraries/ranch.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../prj/.idea/libraries/stream_data.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../prj/.idea/libraries/telemetry.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../prj/.idea/libraries/telemetry_metrics.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../prj/.idea/libraries/telemetry_poller.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../prj/.idea/libraries/websocket_client.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../prj/.idea/libraries/x509.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../prj/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../prj/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../prj/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/circular_buffer.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/cowboy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/cowlib.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/dialyxir.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/earmark.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/ex_doc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/excoveralls.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/file_system.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/floki.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/gettext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/hackney.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/html_entities.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/inch_ex.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/jason.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/kadabra.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/mime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/phoenix.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/phoenix_html.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/phoenix_live_dashboard.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/phoenix_live_reload.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/phoenix_live_view.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/phoenix_pubsub.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/plug.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/plug_cowboy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/plug_crypto.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/ranch.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/stream_data.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/telemetry.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/telemetry_metrics.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/telemetry_poller.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/websocket_client.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/x509.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/project_web/templates/hangman/game_field.html.eex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/project_web/templates/hangman/_gallows.html.eex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/project_web/templates/hangman/status.html.eex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/project_web/views/helpers/game_state_helper.ex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../socket_gallows/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../socket_gallows/.idea/libraries/circular_buffer.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../socket_gallows/.idea/libraries/cowboy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../socket_gallows/.idea/libraries/cowlib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../socket_gallows/.idea/libraries/dialyxir.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../socket_gallows/.idea/libraries/earmark.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../socket_gallows/.idea/libraries/ex_doc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../socket_gallows/.idea/libraries/excoveralls.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../socket_gallows/.idea/libraries/file_system.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../socket_gallows/.idea/libraries/floki.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../socket_gallows/.idea/libraries/gettext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../socket_gallows/.idea/libraries/hackney.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../socket_gallows/.idea/libraries/html_entities.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../socket_gallows/.idea/libraries/inch_ex.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../socket_gallows/.idea/libraries/jason.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../socket_gallows/.idea/libraries/kadabra.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../socket_gallows/.idea/libraries/mime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../socket_gallows/.idea/libraries/phoenix.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../socket_gallows/.idea/libraries/phoenix_html.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../socket_gallows/.idea/libraries/phoenix_live_dashboard.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../socket_gallows/.idea/libraries/phoenix_live_reload.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../socket_gallows/.idea/libraries/phoenix_live_view.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../socket_gallows/.idea/libraries/phoenix_pubsub.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../socket_gallows/.idea/libraries/plug.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../socket_gallows/.idea/libraries/plug_cowboy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../socket_gallows/.idea/libraries/plug_crypto.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../socket_gallows/.idea/libraries/ranch.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../socket_gallows/.idea/libraries/stream_data.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../socket_gallows/.idea/libraries/telemetry.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../socket_gallows/.idea/libraries/telemetry_metrics.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../socket_gallows/.idea/libraries/telemetry_poller.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../socket_gallows/.idea/libraries/websocket_client.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../socket_gallows/.idea/libraries/x509.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../socket_gallows/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../socket_gallows/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../socket_gallows/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../socket_gallows/assets/js/hangman_app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../socket_gallows/assets/js/hangman_socket.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../socket_gallows/lib/socket_gallows_web/channels/hangman_channel.ex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../dictionary/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dictionary/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dictionary/lib/dictionary/word_list.ex" beforeDir="false" afterPath="$PROJECT_DIR$/../dictionary/lib/dictionary/word_list.ex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hangman/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hangman/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hangman2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hangman2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hangman2/lib/hangman2.ex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hangman2/lib/hangman2/game.ex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hangman2/mix.exs" beforeDir="false" afterPath="$PROJECT_DIR$/../hangman2/mix.exs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hangman2/test/game_test.exs" beforeDir="false" afterPath="$PROJECT_DIR$/../hangman2/test/game_test.exs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hangman2/test/hangman_test.exs" beforeDir="false" afterPath="$PROJECT_DIR$/../hangman2/test/hangman_test.exs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../text_client/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../text_client/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../text_client/text_client/lib/text_client/interact.ex" beforeDir="false" afterPath="$PROJECT_DIR$/../text_client/text_client/lib/text_client/interact.ex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../text_client/text_client/lib/text_client/mover.ex" beforeDir="false" afterPath="$PROJECT_DIR$/../text_client/text_client/lib/text_client/mover.ex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../text_client/text_client/mix.exs" beforeDir="false" afterPath="$PROJECT_DIR$/../text_client/text_client/mix.exs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/project_web/controllers/hangman_controller.ex" beforeDir="false" afterPath="$PROJECT_DIR$/lib/project_web/controllers/hangman_controller.ex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/project_web/router.ex" beforeDir="false" afterPath="$PROJECT_DIR$/lib/project_web/router.ex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/project_web/templates/hangman/game_field.html.eex" beforeDir="false" afterPath="$PROJECT_DIR$/lib/project_web/templates/hangman/game_field.html.eex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/project_web/templates/hangman/new_game.html.eex" beforeDir="false" afterPath="$PROJECT_DIR$/lib/project_web/templates/hangman/new_game.html.eex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/project_web/views/hangman_view.ex" beforeDir="false" afterPath="$PROJECT_DIR$/lib/project_web/views/hangman_view.ex" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -182,7 +88,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/project_web/templates/hangman" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../socket_gallows" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -199,7 +105,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600628940580</updated>
-      <workItem from="1600628941826" duration="3081000" />
+      <workItem from="1600628941826" duration="7515000" />
+      <workItem from="1600704611333" duration="5073000" />
+      <workItem from="1600885755833" duration="1218000" />
+      <workItem from="1600889032839" duration="599000" />
+      <workItem from="1600893455909" duration="602000" />
     </task>
     <servers />
   </component>
@@ -216,5 +126,20 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="610" y="306" width="424" height="491" key="FileChooserDialogImpl" timestamp="1600719464070">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="610" y="306" width="424" height="491" key="FileChooserDialogImpl/72.27.1848.1053/72.27.1848.1053@72.27.1848.1053" timestamp="1600719464070" />
+    <state x="491" y="249" key="run.anything.popup" timestamp="1600717991844">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="491" y="249" key="run.anything.popup/72.27.1848.1053/72.27.1848.1053@72.27.1848.1053" timestamp="1600717991844" />
+    <state x="490" y="267" width="672" height="678" key="search.everywhere.popup" timestamp="1600701626819">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="490" y="267" width="672" height="678" key="search.everywhere.popup/72.27.1848.1053@72.27.1848.1053" timestamp="1600701626819" />
   </component>
 </project>
