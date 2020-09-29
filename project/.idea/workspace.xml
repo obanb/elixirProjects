@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8c699342-1e45-44e7-a853-eb354deac564" name="Default Changelist" comment="" />
+    <list default="true" id="8c699342-1e45-44e7-a853-eb354deac564" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../core/lib/core/game.ex" beforeDir="false" afterPath="$PROJECT_DIR$/../core/lib/core/game.ex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../files/coding-gnome/hangman/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../files/coding-gnome/hangman/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,6 +63,7 @@
       <workItem from="1600889032839" duration="599000" />
       <workItem from="1600893455909" duration="602000" />
       <workItem from="1601058313651" duration="598000" />
+      <workItem from="1601410284531" duration="599000" />
     </task>
     <servers />
   </component>
