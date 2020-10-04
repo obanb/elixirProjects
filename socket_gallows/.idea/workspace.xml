@@ -20,8 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b7b1dace-0299-469d-a072-c7cba04d2270" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../core/lib/core/game.ex" beforeDir="false" afterPath="$PROJECT_DIR$/../core/lib/core/game.ex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../files/coding-gnome/hangman/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../files/coding-gnome/hangman/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../core/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../core/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dictionary/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dictionary/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hangman2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hangman2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../project/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +53,7 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="false" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -67,6 +70,9 @@
       <workItem from="1600893451082" duration="2216000" />
       <workItem from="1601058319903" duration="599000" />
       <workItem from="1601410278757" duration="598000" />
+      <workItem from="1601666167595" duration="599000" />
+      <workItem from="1601720155168" duration="370000" />
+      <workItem from="1601837026834" duration="1220000" />
     </task>
     <servers />
   </component>

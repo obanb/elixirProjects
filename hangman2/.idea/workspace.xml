@@ -20,8 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3aedae86-2abb-4b15-9bb7-e942c7e59f7e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../core/lib/core/game.ex" beforeDir="false" afterPath="$PROJECT_DIR$/../core/lib/core/game.ex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../files/coding-gnome/hangman/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../files/coding-gnome/hangman/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../core/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../core/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dictionary/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dictionary/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../project/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../socket_gallows/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../socket_gallows/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,6 +92,9 @@
       <workItem from="1600893454413" duration="599000" />
       <workItem from="1601058316330" duration="599000" />
       <workItem from="1601411010158" duration="1126000" />
+      <workItem from="1601666161431" duration="2997000" />
+      <workItem from="1601720163026" duration="362000" />
+      <workItem from="1601837018522" duration="599000" />
     </task>
     <servers />
   </component>

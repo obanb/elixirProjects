@@ -20,11 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="35360839-47b6-499f-bd0f-0ca44e7bfa9c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/core/game.ex" beforeDir="false" afterPath="$PROJECT_DIR$/lib/core/game.ex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../dictionary/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dictionary/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../files/coding-gnome/hangman/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../files/coding-gnome/hangman/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hangman2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hangman2/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../project/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../socket_gallows/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../socket_gallows/.idea/workspace.xml" afterDir="false" />
@@ -46,7 +43,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Stažené/pragstudio-liveview-code/live_view_studio" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -64,7 +61,10 @@
       <option name="presentableId" value="Default" />
       <updated>1601387238491</updated>
       <workItem from="1601387239817" duration="1799000" />
-      <workItem from="1601410990573" duration="1439000" />
+      <workItem from="1601410990573" duration="2048000" />
+      <workItem from="1601666163005" duration="2431000" />
+      <workItem from="1601720161971" duration="364000" />
+      <workItem from="1601837019462" duration="599000" />
     </task>
     <servers />
   </component>
@@ -81,8 +81,15 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="945" y="285" width="424" height="491" key="FileChooserDialogImpl" timestamp="1601672097978">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="945" y="285" width="424" height="491" key="FileChooserDialogImpl/72.27.1848.1053@72.27.1848.1053" timestamp="1601672097978" />
   </component>
 </project>
