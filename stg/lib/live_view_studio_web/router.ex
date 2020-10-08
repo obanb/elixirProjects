@@ -14,11 +14,13 @@ defmodule LiveViewStudioWeb.Router do
     plug :accepts, ["json"]
   end
 
-  scope "/", LiveViewStudioWeb do
+  scope "/game_gui", LiveViewStudioWeb do
     pipe_through :browser
 
-    live "/", PageLive
-    live "/light", LightLive
+#    live "/", PageLive
+#    live "/light", LightLive
+    get "/new_game", GameGuiController, :new_game
+    post "/create_game", GameGuiController, :create_game
   end
 
   # Other scopes may use custom stacks.

@@ -2,7 +2,7 @@ use Mix.Config
 
 # Configure your database
 config :live_view_studio, LiveViewStudio.Repo,
-  username: "archie",
+  username: "postgres",
   password: "postgres",
   database: "postgres",
   hostname: "localhost",
