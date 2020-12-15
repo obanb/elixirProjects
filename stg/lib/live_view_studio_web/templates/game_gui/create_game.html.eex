@@ -1,5 +1,5 @@
 
-<%= form_for(@conn, Routes.game_gui_path(@conn, :create_game), [ as: :create_game, method: :put], fn f -> %>
+<%= form_for(@conn, Routes.game_gui_path(@conn, :create_game_input), [ as: :create_game_input, method: :put], fn f -> %>
 <%= text_input(f, :name) %>
 <%= text_input(f, :players) %>
 <%= text_input(f, :turns) %>

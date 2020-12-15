@@ -21,6 +21,7 @@ defmodule LiveViewStudioWeb.Router do
 #    live "/light", LightLive
     get "/new_game", GameGuiController, :new_game
     post "/create_game", GameGuiController, :create_game
+    put "/create_game_input", GameGuiController, :create_game_input
   end
 
   # Other scopes may use custom stacks.

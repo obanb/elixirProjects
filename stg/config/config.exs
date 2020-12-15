@@ -23,6 +23,13 @@ config :logger, :console,
   format: "$time $metadata[$level] $message\n",
   metadata: [:request_id]
 
+config :live_view_studio, LiveViewStudio.Repo,
+       database: "postgres",
+       username: "postgres",
+       password: "postgres",
+       hostname: "localhost",
+         # OR use a URL to connect instead
+       url: "postgres://postgres:postgres@localhost/postgres"
 # Use Jason for JSON parsing in Phoenix
 config :phoenix, :json_library, Jason
 
